@@ -2,6 +2,6 @@
 
 ```js
 function info() {
-  console.log("basic info");
+  console.log("BASIC INFO");
 }
 ```
