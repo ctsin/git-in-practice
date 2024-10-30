@@ -1,5 +1,5 @@
 # Environment
 
 ```js
-const env = 'UAT';
+const env = process.env.NODE_ENV;
 ```
