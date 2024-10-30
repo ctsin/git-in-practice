@@ -1,5 +1,5 @@
 # BasicInfo Validation Rules
 
 ```js
-const rules = {};
+const rules = {age: Number(0), email: String('')};
 ```
