@@ -1,5 +1,5 @@
 # Environment
 
 ```js
-const env = 'SIT';
+const env = process.env.NODE_ENV;
 ```
