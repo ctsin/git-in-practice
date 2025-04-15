@@ -6,6 +6,6 @@
 5 MVP2 - 2
 6 MVP1 - 3
 7
-8 MVP2 - 1
+8 MVP2 - 0
 9
 10 Main - 2
